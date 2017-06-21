@@ -1,7 +1,7 @@
 /**
 !/LICENSE
 !/README.md
-!/src/**
+!/src/*
 /src/main.cpp
 !/memory.wast
 !/memory.wasm
